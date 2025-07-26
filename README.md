@@ -1,3 +1,4 @@
+# THIS IS A CHANGE I AM DOING IN THE WEEK 2 BRANCH OF MY FORK
 # Welcome to 2025-python-summer-prep!
 
 All important information can be found in the Syllabus! [Link here click me!](https://docs.google.com/document/d/15EaaC8AzlfAe6qTcVSmYE9_-dp4yyzw1Ot950xRxxow/edit?tab=t.0#heading=h.xyjdshwl4nai)
